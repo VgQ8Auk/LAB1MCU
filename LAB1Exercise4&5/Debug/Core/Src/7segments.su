@@ -1,0 +1,2 @@
+../Core/Src/7segments.c:10:6:Initialize7Segments	24	static
+../Core/Src/7segments.c:21:6:SetAndDisplay7Segments	16	static
