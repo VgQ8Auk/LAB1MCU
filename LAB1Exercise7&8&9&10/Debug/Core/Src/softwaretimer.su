@@ -1,0 +1,6 @@
+../Core/Src/softwaretimer.c:15:6:settimer0	16	static
+../Core/Src/softwaretimer.c:21:6:runtimer0	4	static
+../Core/Src/softwaretimer.c:33:6:settimer1	16	static
+../Core/Src/softwaretimer.c:39:6:runtimer1	4	static
+../Core/Src/softwaretimer.c:51:6:settimer2	16	static
+../Core/Src/softwaretimer.c:57:6:runtimer2	4	static
